@@ -1,1 +1,4 @@
 snort-gpl-rules-2.9.0.8.tar.gz
+/Makefile
+*.src.rpm
+*.tar.gz
